@@ -69,14 +69,14 @@ h4 {
    line-height: 19px;
    text-transform: uppercase;
  }
-   
+
  .name span {
    display: table;
    padding: 0 4px;
    padding: 0 0 0 4px;
    background-color: red;
  }
-   
+
 
 
 
@@ -260,7 +260,7 @@ nav2 {
   width: 300px;
   margin: 0 auto;
   transform: translateY(-50%);
-  
+
   font-family: fantasy;
   font-weight: 600;
   letter-spacing: 3px;
@@ -387,7 +387,7 @@ nav2 a {
 
 #flip div:first-child {
   animation: show 5s linear infinite;
-} 
+}
 
 #flip div div {
   background: #00E7FF;
@@ -449,7 +449,7 @@ nav2 a {
   /* These last 2 properites clean up overshoot weirdness */
   animation-iteration-count: 1;
   animation-fill-mode: both;
-  
+
 }
 
 
@@ -514,14 +514,3 @@ q {font-style: italic;
 
 /* Add a blue color to the author */
 .author {color: cornflowerblue;}
-
-
-
-
-
-
-
-
-
-
-
